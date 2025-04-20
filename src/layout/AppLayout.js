@@ -26,7 +26,7 @@ const AppLayout = () => {
           <Form className="d-flex">
             <Form.Control
               type="search"
-              placeholder="Search"
+              placeholder="검색"
               className="me-2"
               aria-label="Search"
             />
